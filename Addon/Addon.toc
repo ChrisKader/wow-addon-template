@@ -1,7 +1,7 @@
 ## Author: [author]
-## Interface: 90002
+## Interface: 90105
 ## Notes: An average add-on.
-## Title: Addon
+## Title: @addon-name@
 ## Version: @project-version@
 
 ## X-Curse-Project-ID: [number]
@@ -12,4 +12,4 @@
 libs\LibStub\LibStub.lua
 libs\AceAddon-3.0\AceAddon-3.0.xml
 
-Addon.lua
+@addon-name@.lua
