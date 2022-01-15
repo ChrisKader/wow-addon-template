@@ -6,6 +6,7 @@
             "@addon-name@/Addon.lua",
             "@addon-name@/Addon.toc",
             "pkgmeta.yaml",
+            "\/.gitignore",
             "_README.md"
         ],
         "rename":[
