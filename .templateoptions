@@ -1,0 +1,18 @@
+{
+    "replacementText":"@addon-name@",
+    "subFolderName":"Addon",
+    "filesTo":{
+        "replaceText":[
+            "@addon-name@/Addon.lua",
+            "@addon-name@/Addon.toc",
+            "pkgmeta.yaml",
+            "_README.md"
+        ],
+        "rename":[
+            ["_README.md","README.md"]
+        ],
+        "delete":[
+            "Addon"
+        ]
+    }
+}
