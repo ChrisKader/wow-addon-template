@@ -1,8 +1,5 @@
 package-as: @addon-name@
 enable-nolib-creation: no
-externals:
-  @addon-name@/Libs/AceAddon-3.0: https://repos.wowace.com/wow/ace3/trunk/AceAddon-3.0
-  @addon-name@/Libs/LibStub: https://repos.wowace.com/wow/ace3/trunk/LibStub
 manual-changelog:
   filename: CHANGELOG.md
   markup-type: markdown
