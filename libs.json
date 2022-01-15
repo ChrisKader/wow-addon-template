@@ -1,93 +1,111 @@
 {
   "libs": [
     {
-      "name": "AceAddon-3.0",
+      "name": "AceAddon",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceAddon-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceBucket-3.0",
+      "name": "AceBucket",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceBucket-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceComm-3.0",
+      "name": "AceComm",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceComm-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceConfig-3.0",
+      "name": "AceConfig",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceConfig-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceConsole-3.0",
+      "name": "AceConsole",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceConsole-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceDB-3.0",
+      "name": "AceDB",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceDB-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceDBOptions-3.0",
+      "name": "AceDBOptions",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceDBOptions-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceEvent-3.0",
+      "name": "AceEvent",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceEvent-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceGUI-3.0",
+      "name": "AceGUI",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceGUI-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceHook-3.0",
+      "name": "AceHook",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceHook-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceLocale-3.0",
+      "name": "AceLocale",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceLocale-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceSerializer-3.0",
+      "name": "AceSerializer",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceSerializer-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceTab-3.0",
+      "name": "AceTab",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceTab-3.0",
       "scm": "svn"
     },
     {
-      "name": "AceTimer-3.0",
+      "name": "AceTimer",
+      "version":"v3.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/AceTimer-3.0",
       "scm": "svn"
     },
     {
-      "name": "CallbackHandler-1.0",
+      "name": "CallbackHandler",
+      "version":"v1.0",
       "url": "https://repos.curseforge.com/wow/ace3/trunk/CallbackHandler-1.0",
       "scm": "svn"
     },
     {
       "name": "LibStub",
+      "version":"1.0.3",
       "url": "https://repos.curseforge.com/wow/libstub/trunk",
       "scm": "svn"
     },
     {
       "name": "LibDeflate",
+      "version":"1.0.2",
       "url": "https://github.com/SafeteeWoW/LibDeflate/",
       "scm": "git",
       "tag":"v1.0.2"
     },
     {
       "name": "LibSerialize",
+      "version":"v1.1.3",
       "url": "https://github.com/rossnichols/LibSerialize",
       "scm": "git"
     }
