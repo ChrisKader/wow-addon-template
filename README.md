@@ -50,4 +50,4 @@ You can ask questions on the [WoW UI Dev](https://discord.gg/sVQCHr5) Discord se
 
 ## Credits
 
-This template is a direct fork of [wow-addon-template](https://github.com/layday/wow-addon-template) maintained by [layday](https://github.com/layday)
+This template draws inspiration from [wow-addon-template](https://github.com/layday/wow-addon-template) which is maintained by [layday](https://github.com/layday)
