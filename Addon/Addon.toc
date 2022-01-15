@@ -9,7 +9,7 @@
 
 # Scripts are loaded in the order they are listed - libraries must always
 # be declared first.
-libs\LibStub\LibStub.lua
-libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\LibStub\LibStub.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
 
 @addon-name@.lua
