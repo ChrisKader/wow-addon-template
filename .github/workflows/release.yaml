@@ -10,8 +10,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Package and upload
       uses: BigWigsMods/packager@master
-      with:
-        args: -m pkgmeta.yaml
       env:
         CF_API_KEY: ${{ secrets.CF_API_KEY }}
         WOWI_API_TOKEN: ${{ secrets.WOWI_API_TOKEN }}
