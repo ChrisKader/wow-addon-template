@@ -5,7 +5,7 @@
         "replaceText":[
             "@addon-name@/Addon.lua",
             "@addon-name@/Addon.toc",
-            "pkgmeta.yaml",
+            "\/.pkgmeta",
             "\/.gitignore",
             "_README.md"
         ],
