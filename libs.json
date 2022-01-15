@@ -92,16 +92,15 @@
     },
     {
       "name": "LibStub",
-      "version":"1.0.3",
+      "version":"v1.0.3",
       "url": "https://repos.curseforge.com/wow/libstub/trunk",
       "scm": "svn"
     },
     {
       "name": "LibDeflate",
-      "version":"1.0.2",
+      "version":"v1.0.2",
       "url": "https://github.com/SafeteeWoW/LibDeflate/",
-      "scm": "git",
-      "tag":"v1.0.2"
+      "scm": "git"
     },
     {
       "name": "LibSerialize",
