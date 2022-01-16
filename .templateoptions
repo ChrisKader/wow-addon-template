@@ -11,8 +11,8 @@
         ],
         "rename":[
             ["./_README.md","./README.md"],
-            ["@addon-name@/Addon.lua","@addon-name@/@addon-name@.lua"],
-            ["@addon-name@/Addon.toc","@addon-name@/@addon-name@.toc"]
+            ["./@addon-name@/Addon.lua","./@addon-name@/@addon-name@.lua"],
+            ["./@addon-name@/Addon.toc","./@addon-name@/@addon-name@.toc"]
         ]
     }
 }
