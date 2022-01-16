@@ -7,9 +7,9 @@ local addonName, addonTable = ...
 -- `AceAddon` is a library which allows registering hooks to be called
 -- when game events are triggered, such as when a player logs in.
 -- `LibStub` is a library which is used to locate other libraries.
-local @addon-name@ = _G.LibStub("AceAddon-3.0"):NewAddon(addonTable, addonName)
+-- local @addon-name@ = _G.LibStub("AceAddon-3.0"):NewAddon(addonTable, addonName)
 
 -- `OnInitialize` will be called once our add-on is loaded.
-function @addon-name@:OnInitialize()
+--[[ function @addon-name@:OnInitialize()
     print("hello world")
-end
+end ]]
